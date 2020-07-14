@@ -1,4 +1,3 @@
-
 @import url('https://fonts.googleapis.com/css2?family=Lato&family=Vollkorn+SC:wght@600&display=swap');
 
 :root {
@@ -44,8 +43,9 @@ body::before {
 }
 
 h1 {
-  font-weight: 400;
+  font-weight: 600;
   line-height: 1.2;
+  text-shadow: 2px 2px #5D5D5D;
 }
 
 p {
@@ -178,4 +178,5 @@ form {
   color: inherit;
   border-radius: 2px;
   cursor: pointer;
+  text-shadow: 1px 1px #5D5D5D;
 }
