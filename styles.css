@@ -180,3 +180,11 @@ form {
   cursor: pointer;
   text-shadow: 1px 1px #5D5D5D;
 }
+.sr-only {
+  position: absolute;
+  left: -10000px;
+  width: 1px;
+  height: 1px;
+  top: auto;
+  overflow: hidden;
+}
